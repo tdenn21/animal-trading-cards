@@ -1,0 +1,41 @@
+body {
+font-family: sans-serif;
+background: #f9f9f9;
+padding: 2rem;
+}
+.animal-card {
+max-width: 300px;
+background: white;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+padding: 16px;
+}
+.animal-name {
+margin-top: 0;
+}
+.animal-image {
+width: 100%;
+border-radius: 4px;
+}
+.animal-info {
+margin-top: 12px;
+border: 1px solid #ccc;
+background: #fafafa;
+padding: 12px;
+border-radius: 4px;
+}
+.animal-fact {
+font-style: italic;
+margin-bottom: 12px;
+}
+.animal-details {
+list-style: none;
+padding-left: 0;
+margin-bottom: 12px;
+}
+.label {
+font-weight: bold;
+}
+.animal-description {
+line-height: 1.4;
+}
